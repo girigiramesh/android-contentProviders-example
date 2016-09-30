@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContentProviders_SQLite_Example</string>
+    <string name="delete_id">ID to Delete</string>
+    <string name="contacts">Contacts</string>
+    <string name="show_contacts">Show Contacts</string>
+    <string name="deleted_id">Delete ID</string>
+    <string name="find_contact">ID to Find</string>
+    <string name="contacts_find">Find Contact</string>
+    <string name="add_contact">Name to Add</string>
+    <string name="contacts_added">Add Contact</string>
+</resources>
